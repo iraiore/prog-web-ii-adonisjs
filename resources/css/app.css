@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 50%;
+  width: 50%;
+}
+
+.h1{
+  padding-left: 20px;
+}
+
+.container{
+  width: 50%;
+  margin-top: 20px;
+  /*padding-top: 20px;*/
+  padding-left: 20px;
+  border: 2px solid #000;
+}
